@@ -1,0 +1,5 @@
+{
+  "name": "Regression Predictor",
+  "description": "A full-stack application demonstrating multivariate linear regression for predictive modeling.",
+  "requestFramePermissions": []
+}
